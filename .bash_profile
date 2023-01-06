@@ -55,8 +55,8 @@ fi
 #   2. MAKE TERMINAL BETTER
 #   -----------------------------
 #
-alias robin='/Users/sgouda/robin'
-alias kubectl='/Users/sgouda/kubectl'
+#alias robin='/Users/sgouda/robin'
+#alias kubectl='/Users/sgouda/kubectl'
 alias kiba='ssh -F pomerium.txt jhmgmt.stg-id-proxy.rmb-lab.jp'
 #alias cp='cp -iv'                           # Preferred 'cp' implementation
 #alias mv='mv -iv'                           # Preferred 'mv' implementation
@@ -81,8 +81,8 @@ alias kiba='ssh -F pomerium.txt jhmgmt.stg-id-proxy.rmb-lab.jp'
 
 # Setting PATH for Python 3.10
 # The original version is saved in .bash_profile.pysave
-PATH="/Library/Frameworks/Python.framework/Versions/3.10/bin:/Users/sgouda/bin/:${PATH}"
-export PATH
+#PATH="/Library/Frameworks/Python.framework/Versions/3.10/bin:/Users/sgouda/bin/:${PATH}"
+#export PATH
 
 ##
 # Your previous /Users/sgouda/.bash_profile file was backed up as /Users/sgouda/.bash_profile.macports-saved_2021-12-15_at_18:57:29
@@ -92,4 +92,4 @@ export PATH
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 # Finished adapting your PATH environment variable for use with MacPorts.
 
-. "$HOME/.cargo/env"
+#. "$HOME/.cargo/env"
