@@ -11,3 +11,7 @@ lghtg=$(tput setaf 122)
 
 PS1="\[$lghtg\]________________________________________________________________________________ \[$res\] \n \[$orange\] | \w (\u)@\h> \[$res\] "
 export PS1;
+
+
+HISTSIZE= 
+HISTFILESIZE=
